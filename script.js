@@ -4,7 +4,7 @@ const optionButtonsElement = document.getElementById('option-buttons')
 
 let state = {}
 
-function startGame() {
+function startGame() { 
   state = {}
   showTextNode(1)
 }
